@@ -4,6 +4,8 @@ Refer this link [About Game](https://en.wikipedia.org/wiki/Rock_paper_scissors)
 
 This is simple spring-boot base java application which exposes REST Endpoint to play the game between user and system.
 
+This game is __played between Human and Computer(Server) System__ where Human need to invoke below rest endpoint with define set of action using tool like Postman or similar with POST as method type.
+
 **How to run the application?**
 
  - Download code from https://github.com/being-dev/rps.git

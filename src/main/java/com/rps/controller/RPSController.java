@@ -2,8 +2,6 @@ package com.rps.controller;
 
 import java.util.Random;
 
-import javax.xml.ws.RequestWrapper;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
